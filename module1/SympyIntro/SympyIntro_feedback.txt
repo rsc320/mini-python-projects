@@ -1,0 +1,102 @@
+01/18/19 15:49
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Incorrect expression
+Score += 1
+
+Problem 3 (5 points):
+e^(-y^2) is plotted incorrectly
+e^(-y^2)
+Score += 3
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+TypeError: prob6() failed to return anything
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 34/50 = 68.0%
+
+-------------------------------------------------------------------------------
+
+01/21/19 16:20
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Incorrect expression
+Score += 1
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Incorrect minima
+Incorrect maxima
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 41/50 = 82.0%
+
+-------------------------------------------------------------------------------
+
+01/22/19 11:41
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,184 @@
+11/14/18 23:51
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Your lines should be smoother. The way to fix this is to add more slices in your np.linspace. I believe this problem says to use 200 slices. Let me know if that doesn't make sense or if you need help!
+Score += 7
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 7.138335392334647 (showing ||A - Ahat||_2)
+	Correct response: 6.261345244394619
+	Student response: 7.238335392334643
+lowest_rank_approx() failed with error = 7.750160673957143 (showing ||A - Ahat||_2)
+	Correct response: 6.691019072576811
+	Student response: 7.850160673957142
+Score += 1
+
+Problem 5 (15 points):
+Great that you plotted the original image and the approximation, but the approximation should be stored with 1113078 fewer entries than the original
+Again, your entries are not as they should be
+Entries should say 3425034
+Score += 9
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 37/50 = 74.0%
+
+
+Comments:
+	Great comments!
+
+-------------------------------------------------------------------------------
+
+11/16/18 13:53
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Make your lines smoother
+Score += 8
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 8.692077305742655 (showing ||A - Ahat||_2)
+	Correct response: 7.822477852680339
+	Student response: 8.792077305742655
+lowest_rank_approx() failed with error = 7.851565272445508 (showing ||A - Ahat||_2)
+	Correct response: 6.441657247134039
+	Student response: 7.951565272445505
+Score += 1
+
+Problem 5 (15 points):
+You should have a title that states that the approximation can be stored with 1113078 entries
+Again, fix your title
+Fix title
+Score += 9
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
+11/19/18 13:27
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Make lines smooth
+Score += 8
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 9.124263397363968 (showing ||A - Ahat||_2)
+	Correct response: 8.05873985345157
+	Student response: 9.224263397363963
+lowest_rank_approx() failed with error = 6.057363361592131 (showing ||A - Ahat||_2)
+	Correct response: 5.590019607161018
+	Student response: 6.1573633615921315
+Score += 1
+
+Problem 5 (15 points):
+Need title stating the difference
+Need title stating the difference
+Need title stating the difference
+Score += 9
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
+11/25/18 23:51
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+ValueError: rank can't be less than 0
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/26/18 22:02
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+ValueError: rank can't be less than 0
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/29/18 15:45
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
